@@ -1,0 +1,15 @@
+*** MyGate Changelog ***
+
+2012.04.24 - version 1.0
+ * First Release
+
+2012.06.04 - version 1.4
+
+* Initial upload.
+* Added another variable to send to MyGate to improve reporting
+* Updated jQuery on click
+* Updated cancel_url code
+
+2013.03.27 - version 1.5
+
+* Upgrade to Woocommerce 2.+
